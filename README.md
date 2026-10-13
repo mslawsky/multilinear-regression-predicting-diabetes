@@ -174,7 +174,7 @@ For inquiries about this analysis:
 
 ## Disclaimer 📝
 
-This project was completed as part of the [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) program. The diabetes dataset (Efron, Hastie, Johnstone & Tibshirani, 2004) is publicly available through scikit-learn, and the exercise structure was provided by Udacity. All analysis, interpretation, and documentation are my own. This project is for educational purposes only and is not medical advice.
+This project was completed as part of the [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) program. The diabetes dataset (Efron, Hastie, Johnstone & Tibshirani, 2004) is publicly available through scikit-learn, and the exercise structure was provided by Udacity. This project is for educational purposes only and is not medical advice.
 
 ---
 
